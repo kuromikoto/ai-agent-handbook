@@ -29,7 +29,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: 切换到浅色模式
-repo_url: https://github.com/kuromikoto/ai-agent-handbook
 edit_uri: blob/main/
 markdown_extensions:
   - admonition
